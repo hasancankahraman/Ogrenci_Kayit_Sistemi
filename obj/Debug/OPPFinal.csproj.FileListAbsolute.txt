@@ -1,0 +1,22 @@
+C:\Users\HP\source\repos\OPPFinal\bin\Debug\OPPFinal.exe.config
+C:\Users\HP\source\repos\OPPFinal\bin\Debug\OPPFinal.exe
+C:\Users\HP\source\repos\OPPFinal\bin\Debug\OPPFinal.pdb
+C:\Users\HP\source\repos\OPPFinal\obj\Debug\OPPFinal.Form1.resources
+C:\Users\HP\source\repos\OPPFinal\obj\Debug\OPPFinal.Form2.resources
+C:\Users\HP\source\repos\OPPFinal\obj\Debug\OPPFinal.Properties.Resources.resources
+C:\Users\HP\source\repos\OPPFinal\obj\Debug\OPPFinal.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\OPPFinal\obj\Debug\OPPFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OPPFinal\obj\Debug\OPPFinal.exe
+C:\Users\HP\source\repos\OPPFinal\obj\Debug\OPPFinal.pdb
+C:\Users\HP\source\repos\OPPFinal\obj\Debug\OPPFinal.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Bil203_ Grup4_FinalProject\OPPFinal\bin\Debug\OPPFinal.exe.config
+C:\Users\HP\source\repos\Bil203_ Grup4_FinalProject\OPPFinal\bin\Debug\OPPFinal.exe
+C:\Users\HP\source\repos\Bil203_ Grup4_FinalProject\OPPFinal\bin\Debug\OPPFinal.pdb
+C:\Users\HP\source\repos\Bil203_ Grup4_FinalProject\OPPFinal\obj\Debug\OPPFinal.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Bil203_ Grup4_FinalProject\OPPFinal\obj\Debug\OPPFinal.Form1.resources
+C:\Users\HP\source\repos\Bil203_ Grup4_FinalProject\OPPFinal\obj\Debug\OPPFinal.Form2.resources
+C:\Users\HP\source\repos\Bil203_ Grup4_FinalProject\OPPFinal\obj\Debug\OPPFinal.Properties.Resources.resources
+C:\Users\HP\source\repos\Bil203_ Grup4_FinalProject\OPPFinal\obj\Debug\OPPFinal.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Bil203_ Grup4_FinalProject\OPPFinal\obj\Debug\OPPFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Bil203_ Grup4_FinalProject\OPPFinal\obj\Debug\OPPFinal.exe
+C:\Users\HP\source\repos\Bil203_ Grup4_FinalProject\OPPFinal\obj\Debug\OPPFinal.pdb
